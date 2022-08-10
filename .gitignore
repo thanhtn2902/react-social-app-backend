@@ -1,0 +1,14 @@
+/log
+/.idea
+/.vscode
+/node_modules
+/resources/assets/vendor
+/vendor
+*.csv
+*.LICENSE.txt
+.env*
+.phpunit.result.cache
+npm-debug.log
+version
+yarn-error.log
+/public/build
